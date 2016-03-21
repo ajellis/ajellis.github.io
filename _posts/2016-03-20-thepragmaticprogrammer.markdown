@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Pragmatic Programmer - Chapter 1"
-date:   2016-03-20 20:26:58 -0400
+date:   2016-03-21 20:26:58 -0400
 categories: Programming, The Programatic Programmer
 ---
 I'm adding some text here to see if it shows up on the page.
