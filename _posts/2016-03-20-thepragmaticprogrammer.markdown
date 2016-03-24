@@ -3,6 +3,7 @@ layout: post
 title:  "The Pragmatic Programmer: Chapter 1- A Pragmatic Approach"
 date:   2016-03-22 19:00:00 -0400
 categories: Programming, The Pragmatic Programmer
+comments: True
 ---
 
 I have recently begun reading the book The Pragmatic Programmer by Andrew Hunt and David Thomas. It is an absolutely fantastic book. I have already learned quite a bit. Perhaps the best part of the book though, is the fact that it does not focus on any particular programming language. It is a great read that provides a plethora of knowledge to any developer at any level.
