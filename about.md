@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /blog/about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I recently graduated from The Iron Yard, a code school in Durham, NC. While attending the Iron Yard, I studied Ruby on Rails, and learned many different web development tools such as JavaScript, HTML, CSS, JQuery. Since completing the Iron Yard, I have continued to improve as a Ruby on Rails developer, while also learning different languages like Perl. I am enjoying being a developer very much, and I want to use the knowledge and skills I have obtained to give back to the world.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+If you want to collaborate on changing the world and impacting the lives of as many people as possible, you are very welcome to contact me. I would love to hear from you!

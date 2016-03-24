@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "The Pragmatic Programmer: Chapter 1- A Pragmatic Approach"
-date:   2016-03-22 19:00:00 -0400
-categories: Programming, The Pragmatic Programmer
+title:  "Cookies"
+date:   2099-03-19 19:00:00 -0400
+tags: [books, pragmatic_programmer]
+permalink: blog/2016/3-19/a-pragmatic-approach
 comments: True
 ---
 
@@ -16,7 +17,7 @@ This is something that I am usually pretty aware of. In fact, I think I may focu
 
 #### Take Responsibility For Everything You Do
 
-This is of course extremely important as a programmer. I build programs to meet the needs of others. If something isn't right, I should take responsibility for it. It's essential to maintain a good relationship with the client and the users. In addition, holding <i>myself</i> accountable is an important step in improving yourself. Not only in development, but in ALL aspects of life. Expect others to be responsible for their actions as well.
+This is of course extremely important as a programmer. I build programs to meet the needs of others. If something isn't right, I should take responsibility for it. Doing this is a big part in maintaining a good relationship between my clients and users and myself. In addition, holding <i>myself</i> accountable is an important step in improving yourself. Not only in development, but in ALL aspects of life. Expect others to be responsible for their actions as well.
 
 #### Provide Options, Don't Make Lame Excuses
 
@@ -24,7 +25,7 @@ Blaming this or that for issues won't solve anything. If I want something done a
 
 #### Don't Live With Broken Windows
 
-It's easy to get complacent. Don't. How many little issues in a project that I allow to exist does it take before my masterpiece is ruined? Two? Three? Fifty? Does anyone know? Allowing <i>any</i> of these things to exist creates a mind frame of entropy and complacency, and it doesn't take long until that mind frame takes control over my project. I'm not saying I should expect perfection. I <i>should</i>, however, actively work to fix problems. Make a note of problems that exist in a project. David uses a great analogy for it; if I can't fix the window, board it up. Comment the code out. Do whatever I have to do. But don't let it remain. If it seems like it may be a lot of work to be constantly fixing broken code, and it is. But if I don't, broken code will ruin your work.
+It's easy to get complacent. Don't. How many little issues in a project that I allow to exist does it take before my masterpiece is ruined? Two? Three? Fifty? Does anyone know? Allowing <i>any</i> of these things to exist creates a mind frame of entropy and complacency, and it doesn't take long until that mind frame takes control over my project. I'm not saying I should expect perfection. I <i>should</i>, however, actively work to fix problems. Make a note of problems that exist in a project. David uses a great analogy for it; if I can't fix the window, board it up. Comment the code out. Do whatever I have to do. But don't let it remain as a stain on your masterpiece. If it seems like it may be a lot of work to be constantly fixing broken code, that's because it probably is. But if I don't fix it, broken code will ruin my work.
 
 #### Stone Soup
 
@@ -32,11 +33,11 @@ This concept can not only be applied to larger things, like the software a compa
 
 #### Don't Be Like The Boiled Frog
 
-This is absolutely something that has happened to me more than once on projects. I will view the end product, and it ends up being very different from what I envisioned. What I didn't realize while I was working on it, was that small, incremental changes throughout development are what led to this. Whenever I do something, I need to think about he big picture. Think about the effect it has on the end product. Taking detours are okay. I just need to remember where I am trying to go, and make the necessary adjustments to get there.  In my experience, development is not much of a straight path. I take an uncountable number of detours on every project. Getting to where I need to go is the important part.
+This is absolutely something that has happened to me more than once on projects. I reach the end product, and it ends up being very different from what I envisioned. What I didn't realize while I was working on it, was that small, incremental changes throughout development are what led to this. Whenever I do something, I need to think about he big picture. Think about the effect it has on the end product. Taking detours is okay. I just need to remember where I am trying to go, and make the necessary adjustments to get there.  In my experience, development is not much of a straight path. I take an uncountable number of detours on every project. Getting to where I need to go is the important part.
 
 #### Invest Regularly In Your Knowledge Portfolio
 
-I have really enjoyed the process of learning in my time as a developer.  Learning new technology or reading new books, as well as learning more about the technology that you are already familiar with, keeps it so that I am always valuable. It increases my "net worth" as a developer. The only thing keeping me from working that job is my skill set. That's it? Really? Skills can be learned. They can be improved. If there is something I don't know, learn it! It will only benefit me down the line.  
+I have really enjoyed the process of learning in my time as a developer.  Learning new technology or reading new books, as well as learning more about the technology that you are already familiar with, keeps it so that I am always valuable. It increases my "net worth" as a developer. The only thing keeping me from working my dream job is my skill set. That's it? Really? Skills can be learned. They can be improved. If there is something I don't know, learn it! It will only benefit me down the line.  
 
 #### Communicate!
 

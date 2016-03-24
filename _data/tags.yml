@@ -3,3 +3,9 @@
 
 - slug: books
   name: Books
+
+- slug: jekyll
+  name: Jekyll
+
+- slug: update
+  name: Update
