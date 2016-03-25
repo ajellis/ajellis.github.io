@@ -7,7 +7,7 @@ permalink: blog/2016/3-19/a-pragmatic-approach
 comments: True
 ---
 
-I have recently begun reading the book The Pragmatic Programmer by Andrew Hunt and David Thomas. It is an absolutely fantastic book. I have already learned quite a bit. Perhaps the best part of the book though, is the fact that it does not focus on any particular programming language. It is a great read that provides a plethora of knowledge to any developer at any level.
+I have recently began reading the book The Pragmatic Programmer by Andrew Hunt and David Thomas. It is an absolutely fantastic book. I have already learned quite a bit. Perhaps the best part of the book though, is the fact that it does not focus on any particular programming language. It is a great read that provides a plethora of knowledge to any developer at any level.
 
 After only finishing the first chapter, there have already been so many points that stuck out to me. Actively keeping these points in mind will be a priority from this day forward.
 
@@ -33,11 +33,11 @@ This concept can not only be applied to larger things, like the software a compa
 
 #### Don't Be Like The Boiled Frog
 
-This is absolutely something that has happened to me more than once on projects. I reach the end product, and it ends up being very different from what I envisioned. What I didn't realize while I was working on it, was that small, incremental changes throughout development are what led to this. Whenever I do something, I need to think about he big picture. Think about the effect it has on the end product. Taking detours is okay. I just need to remember where I am trying to go, and make the necessary adjustments to get there.  In my experience, development is not much of a straight path. I take an uncountable number of detours on every project. Getting to where I need to go is the important part.
+This is absolutely something that has happened to me more than once on projects. I reach the end product, and it ends up being very different from what I envisioned. What I didn't realize while I was working on it, was that small, incremental changes throughout development are what led to this. Whenever I do something, I need to think about the big picture. Think about the effect it has on the end product. Taking detours is okay. I just need to remember where I am trying to go, and make the necessary adjustments to get there.  In my experience, development is not much of a straight path. I take an uncountable number of detours on every project. Getting to where I need to go is the important part.
 
 #### Invest Regularly In Your Knowledge Portfolio
 
-I have really enjoyed the process of learning in my time as a developer.  Learning new technology or reading new books, as well as learning more about the technology that you are already familiar with, keeps it so that I am always valuable. It increases my "net worth" as a developer. The only thing keeping me from working my dream job is my skill set. That's it? Really? Skills can be learned. They can be improved. If there is something I don't know, learn it! It will only benefit me down the line.  
+I have really enjoyed the process of learning in my time as a developer.  Learning new technology or reading new books, as well as learning more about the technology that I am already familiar with, keeps it so that I am always valuable. It increases my "net worth" as a developer. The only thing keeping me from working my dream job is my skill set. That's it? Really? Skills can be learned. They can be improved. If there is something I don't know, learn it! It will only benefit me down the line.  
 
 #### Communicate!
 
