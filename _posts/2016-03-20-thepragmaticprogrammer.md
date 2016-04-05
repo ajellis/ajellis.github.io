@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Pragmatic Programmer: Chapter 1- A Pragmatic Approach"
+title:  "The Pragmatic Programmer: Chapter 1- A Pragmatic Philosophy"
 date:   2016-03-22 19:00:00 -0400
 tags: [books, pragmatic_programmer]
 permalink: blog/2016/3-22/a-pragmatic-approach
