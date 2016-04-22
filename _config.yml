@@ -14,7 +14,3 @@ permalink: /blog/:title/
 pages_list:
   About: '/about'
   Archive: '/archive'
-
-
-
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vend
